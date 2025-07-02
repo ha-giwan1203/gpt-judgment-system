@@ -1,0 +1,6 @@
+{
+  "version": "v12_clean",
+  "model": "smart",
+  "notion_database_id": "{{ NOTION_DB_ID }}",
+  "backup_folder": "G:/내 드라이브/ChatGPT_자동화작업/시스템설계"
+}
