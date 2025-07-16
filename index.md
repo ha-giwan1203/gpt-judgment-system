@@ -1,10 +1,11 @@
 # 🗂️ GIWANOS 루프 시스템 인덱스
 
-**최종 갱신:** 2025-07-16 15:40:18
+**최종 갱신:** 2025-07-16 16:01:36
 
 | 파일명 | 설명 (자동 추정) |
 |--------|------------------|
 | `250714-지니기억.txt` |  |
+| `GIWANOS_AutoSync_Deploy_v1.zip` |  |
 | `GIWANOS_Final_Summary_Report.pdf` | 보고서 PDF |
 | `GIWANOS_Final_Summary_Report_CLEAN.pdf` | 보고서 PDF |
 | `GIWANOS_Installer_v23_PATCHED.bat` |  |
@@ -38,6 +39,7 @@
 | `client_secret_2_...json → credentials.json` | 설정 또는 구조 |
 | `credentials.json` | 설정 또는 구조 |
 | `dashboard_install_status.txt` |  |
+| `deploy_all_sync_loops.bat` |  |
 | `deploy_index_generator.bat` |  |
 | `deploy_index_with_download.bat` |  |
 | `design_integrity_checker.py` | Python 실행 파일 |
@@ -55,6 +57,7 @@
 | `generate_final_summary_pdf_clean.py` | Python 실행 파일 |
 | `generate_index_from_files.py` | Python 실행 파일 |
 | `generate_index_with_download.py` | Python 실행 파일 |
+| `generate_index_with_sections.py` | Python 실행 파일 |
 | `generate_memory_report_pdf.py` | Python 실행 파일 |
 | `generate_memory_report_pdf_FINAL.py` | Python 실행 파일 |
 | `generate_reflection_pdf.py` | Python 실행 파일 |
@@ -76,6 +79,7 @@
 | `giwanos_slack_report_20250714.txt` |  |
 | `gpt_memory_backup.md` | 문서/소개 |
 | `gpt_trigger.json` | 설정 또는 구조 |
+| `index_backup_rotator.py` | Python 실행 파일 |
 | `judgement_feedback_log.json` | 설정 또는 구조 |
 | `launch_giwanos_dashboard.bat` |  |
 | `launch_watch_trigger_final.bat` |  |
@@ -132,7 +136,6 @@
 | `setup_giwanos.py` | Python 실행 파일 |
 | `slack_summary_report_sender.py` | Python 실행 파일 |
 | `smart_loop_recommender.py` | Python 실행 파일 |
-| `start_오른팔_자동실행_FINAL.bat` |  |
 | `streamlit_app.py` | Python 실행 파일 |
 | `test_all_purposes.bat` |  |
 | `test_all_purposes_FIXED.bat` |  |
@@ -155,9 +158,3 @@
 | `watch_pdf_trigger_reflection.py` | Python 실행 파일 |
 | `watch_trigger_fixed_final.py` | Python 실행 파일 |
 | `zip_backup_generator.py` | Python 실행 파일 |
-| `오른팔.py` | Python 실행 파일 |
-| `오른팔_드라이브_감시.py` | Python 실행 파일 |
-| `오른팔_시스템_정리.md` | 문서/소개 |
-| `오른팔_업로드.py` | Python 실행 파일 |
-| `정리_내작업폴더.py` | Python 실행 파일 |
-| `정리_실행.bat` |  |
