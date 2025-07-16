@@ -1,0 +1,1 @@
+# GIWANOS v15\n\nThis version adds automatic loop path planning based on user intent.

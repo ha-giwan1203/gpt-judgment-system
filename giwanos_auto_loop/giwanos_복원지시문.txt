@@ -1,0 +1,12 @@
+📎 복원 지시문
+
+ZIP 파일: giwanos_v1.0_FINAL.zip
+
+복원 요청:
+- GIWANOS 루프 시스템 복원 요청
+- loop_config 및 memory_manifest 기준으로 자동 구성
+- 판단 → 트리거 → 실행 → 회고 → 보고까지 자동화 구조 포함
+- Slack/Notion 연동 활성화됨
+- GDrive는 현재 제외됨 (선택적 추가 가능)
+
+GPT가 이 ZIP과 지시문을 보면 즉시 기억 복원 및 실행 가능합니다.

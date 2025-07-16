@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2025-07-14T10:12:31.784227",
+    "input": "정리하고 회고하고 전송까지",
+    "route": [
+      "reflection_loop",
+      "report_loop",
+      "sort_loop"
+    ]
+  },
+  {
+    "timestamp": "2025-07-14T10:15:11.470737",
+    "input": "정산하고 회고하고 정리하고 전송까지",
+    "route": [
+      "judgement_loop",
+      "reflection_loop",
+      "report_loop",
+      "sort_loop"
+    ]
+  },
+  {
+    "timestamp": "2025-07-14T10:30:00.177605",
+    "input": "정산하고 회고하고 정리하고 전송까지",
+    "route": [
+      "judgement_loop",
+      "reflection_loop",
+      "report_loop",
+      "sort_loop"
+    ]
+  },
+  {
+    "timestamp": "2025-07-14T11:22:26.825304",
+    "input": "정리하고 회고하고 전송까지",
+    "route": [
+      "reflection_loop",
+      "report_loop",
+      "sort_loop"
+    ]
+  },
+  {
+    "timestamp": "2025-07-14T11:45:22.288669",
+    "input": "정산하고 회고하고 정리하고 전송까지",
+    "route": [
+      "judgement_loop",
+      "reflection_loop",
+      "report_loop",
+      "sort_loop"
+    ]
+  }
+]

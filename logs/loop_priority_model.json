@@ -1,0 +1,22 @@
+{
+  "정리기": {
+    "weight": 1.0,
+    "accuracy": 0.85,
+    "recent_usage": 0.6
+  },
+  "회고기": {
+    "weight": 0.9,
+    "accuracy": 0.9,
+    "recent_usage": 0.4
+  },
+  "정산 루프": {
+    "weight": 0.6,
+    "accuracy": 0.6,
+    "recent_usage": 0.3
+  },
+  "진화기": {
+    "weight": 1.0,
+    "accuracy": 0.95,
+    "recent_usage": 0.2
+  }
+}

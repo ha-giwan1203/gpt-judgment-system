@@ -1,0 +1,22 @@
+{
+  "judgement_loop": {
+    "priority": 0.9,
+    "status": "ready",
+    "collaboration": "required"
+  },
+  "reflection_loop": {
+    "priority": 0.6,
+    "status": "conflict",
+    "collaboration": "optional"
+  },
+  "report_loop": {
+    "priority": 0.4,
+    "status": "standby",
+    "collaboration": "passive"
+  },
+  "sort_loop": {
+    "priority": 0.5,
+    "status": "ready",
+    "collaboration": "optional"
+  }
+}

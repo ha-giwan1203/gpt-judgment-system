@@ -1,0 +1,6 @@
+{
+  "judgement_loop": "기준 판단 / 실행 루프",
+  "reflection_loop": "회고 기록 / PDF 생성 루프",
+  "report_loop": "Notion / Slack / GDrive 전송 루프",
+  "sort_loop": "정리기 파일 분류 루프"
+}

@@ -1,0 +1,26 @@
+{
+  "reflection_loop_v4": {
+    "purpose": "모든 실행의 결과를 회고하고 학습한다",
+    "importance": 0.901,
+    "reason": "실행 후 평가 없이는 개선이 불가능하다",
+    "mandatory": false,
+    "mutated_from": "reflection_loop",
+    "created_at": "2025-07-14T10:25:26.755321"
+  },
+  "reflection_loop_v5": {
+    "purpose": "모든 실행의 결과를 회고하고 학습한다",
+    "importance": 0.761,
+    "reason": "실행 후 평가 없이는 개선이 불가능하다",
+    "mandatory": false,
+    "mutated_from": "reflection_loop",
+    "created_at": "2025-07-14T10:32:48.759408"
+  },
+  "reflection_loop_v8": {
+    "purpose": "모든 실행의 결과를 회고하고 학습한다",
+    "importance": 0.982,
+    "reason": "실행 후 평가 없이는 개선이 불가능하다",
+    "mandatory": false,
+    "mutated_from": "reflection_loop",
+    "created_at": "2025-07-14T11:45:46.479630"
+  }
+}

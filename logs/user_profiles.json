@@ -1,0 +1,14 @@
+{
+  "지완": {
+    "role": "manager",
+    "location": "회사"
+  },
+  "민수": {
+    "role": "worker",
+    "location": "현장"
+  },
+  "지니": {
+    "role": "ai_agent",
+    "location": "서버"
+  }
+}

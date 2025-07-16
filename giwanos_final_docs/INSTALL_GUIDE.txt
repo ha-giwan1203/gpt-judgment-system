@@ -1,0 +1,16 @@
+# ⚙️ GIWANOS 시스템 설치 안내
+
+## 1. 설치 위치
+기본 폴더: C:/giwanos
+
+## 2. 필수 폰트
+- ./Nanum_Gothic/NanumGothic-Regular.ttf
+(한글 PDF 출력용)
+
+## 3. 필요한 패키지 설치
+pip install fpdf2 streamlit watchdog requests
+
+## 4. 실행기 목록
+- python generate_final_summary_pdf.py
+- python watch_pdf_trigger_reflection.py
+- streamlit run giwanos_dashboard_sample.py

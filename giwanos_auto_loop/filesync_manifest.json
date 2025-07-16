@@ -1,0 +1,53 @@
+{
+  "설명": "GPT가 직접 생성/편집/동기화 가능한 루프 파일 정의",
+  "설정": {
+    "ROOT_PATH": "C:/giwanos_진화",
+    "로그폴더": "logs",
+    "기억폴더": ".memory",
+    "실행방식": "local+triggered"
+  },
+  "편집가능_파일": [
+    {
+      "파일명": "loop_launcher.py",
+      "역할": "정리/보고/진화 루프 순차 실행기",
+      "편집권한": "명령 목록, subprocess 경로 수정 가능",
+      "실행경로": "./loop_launcher.py"
+    },
+    {
+      "파일명": "evolution_runner_local.py",
+      "역할": "진화 루프 자동 순환기",
+      "편집권한": "step 순서, 실행 경로, 루프 조건 판단 수정 가능",
+      "실행경로": "./evolution_runner_local.py"
+    },
+    {
+      "파일명": "auto_response_slack.py",
+      "역할": "Slack 전송기",
+      "편집권한": "메시지 형식, Slack 키 수정 가능",
+      "실행경로": "./auto_response_slack.py"
+    },
+    {
+      "파일명": "notion_auto_reporter_fixed_v2.py",
+      "역할": "Notion 회고 자동 업로드",
+      "편집권한": "토큰 경로 수정, 블록 생성 형식 변경 가능",
+      "실행경로": "./notion_auto_reporter_fixed_v2.py"
+    }
+  ],
+  "동기화_기준": {
+    "기억": [
+      "memory_manifest_*.json",
+      ".memory/loop_reflection_summary.md"
+    ],
+    "상태": [
+      "logs/loop_launcher.log",
+      ".memory/feedback_kpi_latest.json"
+    ],
+    "트리거": [
+      "gpt_trigger_*.json"
+    ],
+    "보안파일": [
+      ".env",
+      ".env_giwanos"
+    ]
+  },
+  "편집가능조건": "GPT가 .env, manifest, config 구조를 명확히 인식하고 있을 때"
+}

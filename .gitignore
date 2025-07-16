@@ -1,0 +1,30 @@
+# 📁 GIWANOS 시스템 .gitignore
+
+# 민감 정보
+.env
+credentials.json
+*.key
+
+# 실행 결과물
+*.zip
+*.pdf
+*.log
+*.db
+*.sqlite
+
+# 캐시 및 환경
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+
+# 폰트 및 리소스
+Nanum_Gothic/
+
+# 대시보드 실행 로그
+watch_pdf_trigger_reflection.log
+trigger_execution.log
+
+# 로컬 전용 설정
+.vscode/
+.idea/

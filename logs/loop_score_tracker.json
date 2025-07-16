@@ -1,0 +1,26 @@
+{
+  "loop_recommender.py": {
+    "average_score": 0.82,
+    "stdev": 0.02,
+    "runs": 20,
+    "scores": []
+  },
+  "loop_summary_writer.py": {
+    "average_score": 0.79,
+    "stdev": 0.01,
+    "runs": 20,
+    "scores": []
+  },
+  "loop_explainer.py": {
+    "average_score": 0.77,
+    "stdev": 0.015,
+    "runs": 20,
+    "scores": []
+  },
+  "loop_mutator.py": {
+    "average_score": 0.71,
+    "stdev": 0.03,
+    "runs": 20,
+    "scores": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "manager": [
+    "loop_summary_writer.py",
+    "loop_explainer.py"
+  ],
+  "worker": [
+    "loop_scheduler.py",
+    "loop_feedback_trainer.py"
+  ],
+  "ai_agent": [
+    "loop_mutator.py",
+    "loop_autogenerator.py",
+    "loop_path_optimizer.py"
+  ]
+}

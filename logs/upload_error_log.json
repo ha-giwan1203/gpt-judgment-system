@@ -1,0 +1,122 @@
+[
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T15:37:17.194447",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"5a0a0200-4b86-46ca-a469-c98a2f5fc4b1\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"5a0a0200-4b86-46ca-a469-c98a2f5fc4b1\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T15:37:17.819325",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"4d63216c-a20b-4b1a-a56a-3605a78e4186\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"4d63216c-a20b-4b1a-a56a-3605a78e4186\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T16:53:02.288320",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"867c21c1-3f0f-43c6-8b41-d3066916350b\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"867c21c1-3f0f-43c6-8b41-d3066916350b\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T16:53:02.293309",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T16:53:02.297296",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:27:31.508554",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"b6b5767f-258f-48ca-a51e-d725cf7efb35\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"b6b5767f-258f-48ca-a51e-d725cf7efb35\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:27:31.510551",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:27:31.511548",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:29:02.278475",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"e73c4364-aacb-4e26-a458-c3c3d21a5027\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"e73c4364-aacb-4e26-a458-c3c3d21a5027\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:29:02.279472",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:29:02.280469",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:30:12.381731",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"3ae2ac47-b9c8-4eab-95eb-04e1015ad8ac\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"3ae2ac47-b9c8-4eab-95eb-04e1015ad8ac\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:30:12.382729",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T19:30:12.383726",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T20:06:24.105332",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"d41dce08-59a9-459e-aabe-a0431849aef5\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"d41dce08-59a9-459e-aabe-a0431849aef5\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T20:06:24.106331",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-14T20:06:24.108325",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-15T12:22:36.433453",
+    "error": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"c0b122bf-9573-4520-8694-55e07a178d68\"}",
+    "trace": "전송 실패: {\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"c0b122bf-9573-4520-8694-55e07a178d68\"}"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-15T12:22:36.440435",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  },
+  {
+    "file": "upload_final_runner.py",
+    "time": "2025-07-15T12:22:36.444423",
+    "error": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'",
+    "trace": "[Errno 2] No such file or directory: 'C:/giwanos\\\\loop_snapshot_v40_final.zip'"
+  }
+]

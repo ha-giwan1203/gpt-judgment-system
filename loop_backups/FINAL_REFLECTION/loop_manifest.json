@@ -1,0 +1,15 @@
+{
+  "manifest_generated_at": "2025-07-14T20:04:08.091470",
+  "active_genes": {
+    "note": "loop_genes_mutated.json not found"
+  },
+  "active_loops": [
+    "repeat_judge_runner.py",
+    "generate_reflection_pdf.py",
+    "evolution_loop.py",
+    "upload_final_runner.py",
+    "zip_backup_generator.py"
+  ],
+  "recommended_next": "backup_zip",
+  "stability_flag": true
+}

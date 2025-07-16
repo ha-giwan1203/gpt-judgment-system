@@ -1,0 +1,26 @@
+[
+  {
+    "loop": "reflection_loop",
+    "importance": 0.8,
+    "reason": "실행 후 평가 없이는 개선이 불가능하다",
+    "mandatory": false,
+    "execute": true,
+    "timestamp": "2025-07-14T10:19:07.147966"
+  },
+  {
+    "loop": "reflection_loop",
+    "importance": 0.8,
+    "reason": "실행 후 평가 없이는 개선이 불가능하다",
+    "mandatory": false,
+    "execute": true,
+    "timestamp": "2025-07-14T10:32:38.827336"
+  },
+  {
+    "loop": "reflection_loop",
+    "importance": 0.8,
+    "reason": "실행 후 평가 없이는 개선이 불가능하다",
+    "mandatory": false,
+    "execute": true,
+    "timestamp": "2025-07-14T11:45:39.977996"
+  }
+]

@@ -1,0 +1,11 @@
+{
+    "timestamp": "2025-07-13T09:12:40.559452",
+    "hostname": "DESKTOP-MH0F8GQ",
+    "user": "user",
+    "disk_usage_percent": 88.0,
+    "host_ok": true,
+    "user_ok": true,
+    "disk_ok": true,
+    "allow_loop": true,
+    "block_reason": []
+}

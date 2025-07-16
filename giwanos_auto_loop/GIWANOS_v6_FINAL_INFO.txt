@@ -1,0 +1,57 @@
+
+# 📦 GIWANOS v6 FINAL 시스템 구조 및 설치/설계 계획 (지완)
+
+## ✅ 현재 방 작업 요약
+
+### 🎯 최종 목표
+- 실패한 판단을 기억하고, 다음 판단에서 **회피하거나 교정하는 GPT 사고 시스템** 구현
+
+### 📂 생성 완료된 최종 패키지
+- 파일: giwanos_v6_FINAL.zip
+- 구성:
+  - giwanos_main_loop_v6.py: Smart 판단 루프
+  - smart_judge.py: 실패 회피 Tree-of-Thought 판단기
+  - judgement_feedback_log.json: 실패 판단 이력 저장소
+  - tree_thought_simulator.py: 판단 가지 기반 사고 시뮬레이터
+  - giwanos_auto_loop/ 내부:
+    - agent_memory.py, generate_pdf.py, agent_memory_snapshot.py
+    - zip_backup_generator.py, upload_final_runner.py, file_sort_for_지완OS_v2.py
+  - 회고 로그: loop_reflection_log.md, loop_reflection_log.pdf
+  - 백업: memory_snapshot_*.zip
+
+## 🚀 새 방에서의 시작 지침
+
+### 🧭 설치 계획
+1. giwanos_v6_FINAL.zip 압축 해제
+2. 루트 디렉토리: C:/giwanos 또는 지정 위치
+3. 반드시 다음 경로 구조 유지:
+   - /giwanos_main_loop_v6.py
+   - /smart_judge.py
+   - /giwanos_auto_loop/...
+   - /giwanos_memory/
+4. .env 필요 시 기존 노션/슬랙 연동 구조 복원 가능
+
+### 🧱 실행 준비
+- 명령어:
+  python giwanos_main_loop_v6.py
+- 출력:
+  - Smart 판단 → 실행기 호출
+  - 회고 .md + .pdf 저장
+  - 기억 스냅샷 .zip 생성
+
+## 🔮 앞으로의 설계 방향 (v7 또는 확장 루트)
+
+### 1. 📡 보고 연동 루프
+- Slack, Notion으로 회고 PDF 자동 전송
+
+### 2. 📊 사고 시각화
+- Streamlit 기반 판단 흐름 + 실패율 시각화
+
+### 3. 🧠 사고 다양화
+- GPT 판단자 A/B/C 비교, Tree-of-Critique 확장
+
+### 4. 🔁 판단 피드백 루프
+- 실패 이력 학습 강화, 판단 구조 조정
+
+## 📌 기억된 시스템 핵심 문장
+> 지니는 실패를 기억하고, 판단을 교정하며, 사고를 기록하는 시스템이다.

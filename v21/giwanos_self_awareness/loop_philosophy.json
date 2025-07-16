@@ -1,0 +1,26 @@
+{
+  "judgement_loop": {
+    "purpose": "정확한 기준 판단을 통해 시스템 오류를 방지함",
+    "importance": 0.95,
+    "reason": "기준 판단은 모든 루프의 전제가 되므로 반드시 우선되어야 한다.",
+    "mandatory": true
+  },
+  "reflection_loop": {
+    "purpose": "모든 실행의 결과를 회고하고 학습한다",
+    "importance": 0.8,
+    "reason": "실행 후 평가 없이는 개선이 불가능하다",
+    "mandatory": false
+  },
+  "report_loop": {
+    "purpose": "실행 결과를 외부 시스템과 공유한다",
+    "importance": 0.6,
+    "reason": "외부 연동은 중요하지만 내부 판단보다 후순위이다",
+    "mandatory": false
+  },
+  "sort_loop": {
+    "purpose": "파일 및 자산을 정리하여 시스템을 청결하게 유지함",
+    "importance": 0.5,
+    "reason": "정리는 주기적으로 필요하지만 필수는 아니다",
+    "mandatory": false
+  }
+}

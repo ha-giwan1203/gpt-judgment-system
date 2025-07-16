@@ -1,0 +1,1976 @@
+[
+  {
+    "name": "generate_reflection_pdf.py",
+    "relative_path": "generate_reflection_pdf.py",
+    "size": 1029,
+    "modified": "2025-07-14T11:30:49.829946",
+    "extension": ".py"
+  },
+  {
+    "name": "giwanos_launcher_all.py",
+    "relative_path": "giwanos_launcher_all.py",
+    "size": 1217,
+    "modified": "2025-07-14T08:04:53.063500",
+    "extension": ".py"
+  },
+  {
+    "name": "giwanos_loop_dashboard.py",
+    "relative_path": "giwanos_loop_dashboard.py",
+    "size": 1875,
+    "modified": "2025-07-14T11:09:38.793279",
+    "extension": ".py"
+  },
+  {
+    "name": "GIWANOS_운영요약_20250714_0156.pdf",
+    "relative_path": "GIWANOS_운영요약_20250714_0156.pdf",
+    "size": 2325,
+    "modified": "2025-07-14T11:09:38.791033",
+    "extension": ".pdf"
+  },
+  {
+    "name": "judgement_feedback_log.json",
+    "relative_path": "judgement_feedback_log.json",
+    "size": 143,
+    "modified": "2025-07-13T14:15:15.949655",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_change_diff_checker.py",
+    "relative_path": "loop_change_diff_checker.py",
+    "size": 1954,
+    "modified": "2025-07-14T15:39:11.791213",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_error_logger.py",
+    "relative_path": "loop_error_logger.py",
+    "size": 799,
+    "modified": "2025-07-14T15:35:00.059086",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_integrity_checker.py",
+    "relative_path": "loop_integrity_checker.py",
+    "size": 1405,
+    "modified": "2025-07-14T15:25:45.168003",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_manifest_generator.py",
+    "relative_path": "loop_manifest_generator.py",
+    "size": 1293,
+    "modified": "2025-07-14T15:42:40.367601",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_reflection_log_20250714_112849.pdf",
+    "relative_path": "loop_reflection_log_20250714_112849.pdf",
+    "size": 1948,
+    "modified": "2025-07-14T11:28:49.463671",
+    "extension": ".pdf"
+  },
+  {
+    "name": "loop_reflection_report_v25.pdf",
+    "relative_path": "loop_reflection_report_v25.pdf",
+    "size": 1436,
+    "modified": "2025-07-14T13:39:51.618848",
+    "extension": ".pdf"
+  },
+  {
+    "name": "loop_snapshot_v40_final.zip",
+    "relative_path": "loop_snapshot_v40_final.zip",
+    "size": 69598,
+    "modified": "2025-07-14T13:39:32.566563",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_summary_report.pdf",
+    "relative_path": "loop_summary_report.pdf",
+    "size": 16335,
+    "modified": "2025-07-14T15:32:07.868222",
+    "extension": ".pdf"
+  },
+  {
+    "name": "loop_summary_writer.py",
+    "relative_path": "loop_summary_writer.py",
+    "size": 975,
+    "modified": "2025-07-14T14:24:10.887555",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_sync_watcher.py",
+    "relative_path": "loop_sync_watcher.py",
+    "size": 1288,
+    "modified": "2025-07-14T15:22:42.002651",
+    "extension": ".py"
+  },
+  {
+    "name": "repeat_judge_runner.py",
+    "relative_path": "repeat_judge_runner.py",
+    "size": 2073,
+    "modified": "2025-07-13T06:52:50.716325",
+    "extension": ".py"
+  },
+  {
+    "name": "run_giwanos_full_loop.py",
+    "relative_path": "run_giwanos_full_loop.py",
+    "size": 2232,
+    "modified": "2025-07-14T15:16:45.857798",
+    "extension": ".py"
+  },
+  {
+    "name": "run_giwanos_master_loop.py",
+    "relative_path": "run_giwanos_master_loop.py",
+    "size": 1437,
+    "modified": "2025-07-14T08:22:51.596952",
+    "extension": ".py"
+  },
+  {
+    "name": "upload_final_runner.py",
+    "relative_path": "upload_final_runner.py",
+    "size": 2062,
+    "modified": "2025-07-14T15:36:59.753693",
+    "extension": ".py"
+  },
+  {
+    "name": "watch_trigger_fixed.py",
+    "relative_path": "watch_trigger_fixed.py",
+    "size": 3735,
+    "modified": "2025-07-14T15:31:54.603020",
+    "extension": ".py"
+  },
+  {
+    "name": "zip_backup_generator.py",
+    "relative_path": "zip_backup_generator.py",
+    "size": 755,
+    "modified": "2025-07-14T11:30:15.614677",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_append_reflection_log.py",
+    "relative_path": "giwanos_auto_loop\\agent_append_reflection_log.py",
+    "size": 108,
+    "modified": "2025-07-14T09:51:17.805634",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_context_sensor.py",
+    "relative_path": "giwanos_auto_loop\\agent_context_sensor.py",
+    "size": 846,
+    "modified": "2025-07-13T07:38:11.982731",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_dashboard_launcher.py",
+    "relative_path": "giwanos_auto_loop\\agent_dashboard_launcher.py",
+    "size": 1113,
+    "modified": "2025-07-13T07:38:11.976747",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_executor.py",
+    "relative_path": "giwanos_auto_loop\\agent_executor.py",
+    "size": 88,
+    "modified": "2025-07-14T09:51:17.796039",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_judge.py",
+    "relative_path": "giwanos_auto_loop\\agent_judge.py",
+    "size": 86,
+    "modified": "2025-07-14T09:51:17.796039",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_judge_goals.py",
+    "relative_path": "giwanos_auto_loop\\agent_judge_goals.py",
+    "size": 1483,
+    "modified": "2025-07-13T07:38:11.991345",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_judge_v5.py",
+    "relative_path": "giwanos_auto_loop\\agent_judge_v5.py",
+    "size": 2085,
+    "modified": "2025-07-13T07:38:11.994336",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_local_guard.py",
+    "relative_path": "giwanos_auto_loop\\agent_local_guard.py",
+    "size": 1499,
+    "modified": "2025-07-13T07:38:11.982731",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_memory.py",
+    "relative_path": "giwanos_auto_loop\\agent_memory.py",
+    "size": 639,
+    "modified": "2025-07-13T13:38:48.832960",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_memory_backup.py",
+    "relative_path": "giwanos_auto_loop\\agent_memory_backup.py",
+    "size": 85,
+    "modified": "2025-07-14T09:51:17.808627",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_memory_restore.py",
+    "relative_path": "giwanos_auto_loop\\agent_memory_restore.py",
+    "size": 87,
+    "modified": "2025-07-14T09:51:17.811584",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_notion_uploader.py",
+    "relative_path": "giwanos_auto_loop\\agent_notion_uploader.py",
+    "size": 1609,
+    "modified": "2025-07-13T07:38:11.976747",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_pc_status.py",
+    "relative_path": "giwanos_auto_loop\\agent_pc_status.py",
+    "size": 879,
+    "modified": "2025-07-13T07:38:11.985362",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_recorder.py",
+    "relative_path": "giwanos_auto_loop\\agent_recorder.py",
+    "size": 82,
+    "modified": "2025-07-14T09:51:17.808627",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_reflector.py",
+    "relative_path": "giwanos_auto_loop\\agent_reflector.py",
+    "size": 681,
+    "modified": "2025-07-13T07:38:11.969947",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_reflector_v2.py",
+    "relative_path": "giwanos_auto_loop\\agent_reflector_v2.py",
+    "size": 100,
+    "modified": "2025-07-14T09:51:17.805634",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_register_device.py",
+    "relative_path": "giwanos_auto_loop\\agent_register_device.py",
+    "size": 1040,
+    "modified": "2025-07-13T07:38:11.997329",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_router.py",
+    "relative_path": "giwanos_auto_loop\\agent_router.py",
+    "size": 1771,
+    "modified": "2025-07-13T07:38:11.991345",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_uplink.py",
+    "relative_path": "giwanos_auto_loop\\agent_uplink.py",
+    "size": 808,
+    "modified": "2025-07-13T07:38:11.969947",
+    "extension": ".py"
+  },
+  {
+    "name": "ai_judge_loop.py",
+    "relative_path": "giwanos_auto_loop\\ai_judge_loop.py",
+    "size": 1341,
+    "modified": "2025-07-13T07:38:11.957491",
+    "extension": ".py"
+  },
+  {
+    "name": "ai_trigger_decider.py",
+    "relative_path": "giwanos_auto_loop\\ai_trigger_decider.py",
+    "size": 1643,
+    "modified": "2025-07-13T03:25:28.370151",
+    "extension": ".py"
+  },
+  {
+    "name": "auto_mutator.py",
+    "relative_path": "giwanos_auto_loop\\auto_mutator.py",
+    "size": 1840,
+    "modified": "2025-07-13T03:25:28.369155",
+    "extension": ".py"
+  },
+  {
+    "name": "auto_response_slack.py",
+    "relative_path": "giwanos_auto_loop\\auto_response_slack.py",
+    "size": 1178,
+    "modified": "2025-07-13T03:25:34.175353",
+    "extension": ".py"
+  },
+  {
+    "name": "convert_reflection_log_to_pdf.py",
+    "relative_path": "giwanos_auto_loop\\convert_reflection_log_to_pdf.py",
+    "size": 660,
+    "modified": "2025-07-13T09:29:15.115052",
+    "extension": ".py"
+  },
+  {
+    "name": "device_roles.json",
+    "relative_path": "giwanos_auto_loop\\device_roles.json",
+    "size": 365,
+    "modified": "2025-07-13T07:38:42.491013",
+    "extension": ".json"
+  },
+  {
+    "name": "evolution_loop.py",
+    "relative_path": "giwanos_auto_loop\\evolution_loop.py",
+    "size": 2424,
+    "modified": "2025-07-14T13:39:51.641875",
+    "extension": ".py"
+  },
+  {
+    "name": "evolution_runner_fixed.py",
+    "relative_path": "giwanos_auto_loop\\evolution_runner_fixed.py",
+    "size": 838,
+    "modified": "2025-07-13T02:26:44.864066",
+    "extension": ".py"
+  },
+  {
+    "name": "evolution_runner_local.py",
+    "relative_path": "giwanos_auto_loop\\evolution_runner_local.py",
+    "size": 836,
+    "modified": "2025-07-13T02:44:32.201616",
+    "extension": ".py"
+  },
+  {
+    "name": "evolution_runner_local_v3.py",
+    "relative_path": "giwanos_auto_loop\\evolution_runner_local_v3.py",
+    "size": 960,
+    "modified": "2025-07-13T03:25:20.703020",
+    "extension": ".py"
+  },
+  {
+    "name": "evolution_summary_streamlit.py",
+    "relative_path": "giwanos_auto_loop\\evolution_summary_streamlit.py",
+    "size": 1051,
+    "modified": "2025-07-14T13:39:51.650851",
+    "extension": ".py"
+  },
+  {
+    "name": "failure_reason_extractor.py",
+    "relative_path": "giwanos_auto_loop\\failure_reason_extractor.py",
+    "size": 814,
+    "modified": "2025-07-13T12:08:33.156751",
+    "extension": ".py"
+  },
+  {
+    "name": "feedback_loop.py",
+    "relative_path": "giwanos_auto_loop\\feedback_loop.py",
+    "size": 2153,
+    "modified": "2025-07-13T03:25:30.358613",
+    "extension": ".py"
+  },
+  {
+    "name": "filesync_manifest.json",
+    "relative_path": "giwanos_auto_loop\\filesync_manifest.json",
+    "size": 1661,
+    "modified": "2025-07-13T03:25:37.180262",
+    "extension": ".json"
+  },
+  {
+    "name": "file_sort_for_지완OS_v2.py",
+    "relative_path": "giwanos_auto_loop\\file_sort_for_지완OS_v2.py",
+    "size": 66,
+    "modified": "2025-07-13T07:38:09.030018",
+    "extension": ".py"
+  },
+  {
+    "name": "flow_tree.py",
+    "relative_path": "giwanos_auto_loop\\flow_tree.py",
+    "size": 1450,
+    "modified": "2025-07-13T03:25:26.518369",
+    "extension": ".py"
+  },
+  {
+    "name": "generate_pdf.py",
+    "relative_path": "giwanos_auto_loop\\generate_pdf.py",
+    "size": 284,
+    "modified": "2025-07-13T03:25:32.310649",
+    "extension": ".py"
+  },
+  {
+    "name": "generate_reflection_pdf.py",
+    "relative_path": "giwanos_auto_loop\\generate_reflection_pdf.py",
+    "size": 1100,
+    "modified": "2025-07-13T13:01:07.721735",
+    "extension": ".py"
+  },
+  {
+    "name": "giwanos_context.json",
+    "relative_path": "giwanos_auto_loop\\giwanos_context.json",
+    "size": 90,
+    "modified": "2025-07-13T07:38:42.490018",
+    "extension": ".json"
+  },
+  {
+    "name": "giwanos_goals.json",
+    "relative_path": "giwanos_auto_loop\\giwanos_goals.json",
+    "size": 571,
+    "modified": "2025-07-13T07:38:11.989349",
+    "extension": ".json"
+  },
+  {
+    "name": "giwanos_history.json",
+    "relative_path": "giwanos_auto_loop\\giwanos_history.json",
+    "size": 345,
+    "modified": "2025-07-13T07:38:11.979740",
+    "extension": ".json"
+  },
+  {
+    "name": "giwanos_main_loop_v6.py",
+    "relative_path": "giwanos_auto_loop\\giwanos_main_loop_v6.py",
+    "size": 1206,
+    "modified": "2025-07-13T13:52:19.744180",
+    "extension": ".py"
+  },
+  {
+    "name": "gpt_trigger_보고루프_v2.json",
+    "relative_path": "giwanos_auto_loop\\gpt_trigger_보고루프_v2.json",
+    "size": 186,
+    "modified": "2025-07-13T03:25:45.373150",
+    "extension": ".json"
+  },
+  {
+    "name": "gpt_trigger_정리루프_v2.json",
+    "relative_path": "giwanos_auto_loop\\gpt_trigger_정리루프_v2.json",
+    "size": 277,
+    "modified": "2025-07-13T03:25:44.332120",
+    "extension": ".json"
+  },
+  {
+    "name": "gpt_trigger_진화루프_v3.json",
+    "relative_path": "giwanos_auto_loop\\gpt_trigger_진화루프_v3.json",
+    "size": 273,
+    "modified": "2025-07-13T03:25:38.184295",
+    "extension": ".json"
+  },
+  {
+    "name": "judgement_feedback_log.json",
+    "relative_path": "giwanos_auto_loop\\judgement_feedback_log.json",
+    "size": 541,
+    "modified": "2025-07-13T14:13:26.073661",
+    "extension": ".json"
+  },
+  {
+    "name": "local_guard_result.json",
+    "relative_path": "giwanos_auto_loop\\local_guard_result.json",
+    "size": 257,
+    "modified": "2025-07-13T09:12:40.560450",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_agent_manager.py",
+    "relative_path": "giwanos_auto_loop\\loop_agent_manager.py",
+    "size": 710,
+    "modified": "2025-07-14T13:39:51.702360",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_autogenerator.py",
+    "relative_path": "giwanos_auto_loop\\loop_autogenerator.py",
+    "size": 959,
+    "modified": "2025-07-14T13:39:51.671618",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_benchmark_runner.py",
+    "relative_path": "giwanos_auto_loop\\loop_benchmark_runner.py",
+    "size": 1175,
+    "modified": "2025-07-14T13:39:51.680100",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_chain_executor.py",
+    "relative_path": "giwanos_auto_loop\\loop_chain_executor.py",
+    "size": 481,
+    "modified": "2025-07-14T13:39:51.658279",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_collaboration_simulator.py",
+    "relative_path": "giwanos_auto_loop\\loop_collaboration_simulator.py",
+    "size": 1066,
+    "modified": "2025-07-14T13:39:51.707381",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_collab_dashboard.py",
+    "relative_path": "giwanos_auto_loop\\loop_collab_dashboard.py",
+    "size": 714,
+    "modified": "2025-07-14T13:39:51.710662",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_collab_trainer.py",
+    "relative_path": "giwanos_auto_loop\\loop_collab_trainer.py",
+    "size": 818,
+    "modified": "2025-07-14T13:39:51.716646",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_conversation_logger.py",
+    "relative_path": "giwanos_auto_loop\\loop_conversation_logger.py",
+    "size": 761,
+    "modified": "2025-07-14T13:39:51.705387",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_crossover.py",
+    "relative_path": "giwanos_auto_loop\\loop_crossover.py",
+    "size": 1544,
+    "modified": "2025-07-14T13:39:51.671618",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_dashboard.py",
+    "relative_path": "giwanos_auto_loop\\loop_dashboard.py",
+    "size": 1188,
+    "modified": "2025-07-13T03:25:31.411109",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_dashboard_v2.py",
+    "relative_path": "giwanos_auto_loop\\loop_dashboard_v2.py",
+    "size": 1351,
+    "modified": "2025-07-14T13:39:51.683088",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_error_explainer.py",
+    "relative_path": "giwanos_auto_loop\\loop_error_explainer.py",
+    "size": 1722,
+    "modified": "2025-07-13T03:25:26.519364",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_evaluator.py",
+    "relative_path": "giwanos_auto_loop\\loop_evaluator.py",
+    "size": 1585,
+    "modified": "2025-07-14T13:39:51.658279",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_execution_memory.py",
+    "relative_path": "giwanos_auto_loop\\loop_execution_memory.py",
+    "size": 797,
+    "modified": "2025-07-14T13:39:51.650851",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_experiment_viewer.py",
+    "relative_path": "giwanos_auto_loop\\loop_experiment_viewer.py",
+    "size": 767,
+    "modified": "2025-07-14T13:39:51.686080",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_explainer.py",
+    "relative_path": "giwanos_auto_loop\\loop_explainer.py",
+    "size": 1201,
+    "modified": "2025-07-14T13:39:51.683088",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_feedback_collector.py",
+    "relative_path": "giwanos_auto_loop\\loop_feedback_collector.py",
+    "size": 754,
+    "modified": "2025-07-14T13:39:51.696380",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_feedback_dashboard.py",
+    "relative_path": "giwanos_auto_loop\\loop_feedback_dashboard.py",
+    "size": 763,
+    "modified": "2025-07-14T13:39:51.700366",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_feedback_trainer.py",
+    "relative_path": "giwanos_auto_loop\\loop_feedback_trainer.py",
+    "size": 1817,
+    "modified": "2025-07-14T15:06:39.500712",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_fusion_engine.py",
+    "relative_path": "giwanos_auto_loop\\loop_fusion_engine.py",
+    "size": 1754,
+    "modified": "2025-07-14T13:39:51.715648",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_fusion_tree_visualizer.py",
+    "relative_path": "giwanos_auto_loop\\loop_fusion_tree_visualizer.py",
+    "size": 798,
+    "modified": "2025-07-14T13:39:51.718729",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_health_monitor.py",
+    "relative_path": "giwanos_auto_loop\\loop_health_monitor.py",
+    "size": 1226,
+    "modified": "2025-07-14T13:39:51.654229",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_lab_manager.py",
+    "relative_path": "giwanos_auto_loop\\loop_lab_manager.py",
+    "size": 1111,
+    "modified": "2025-07-14T13:39:51.677603",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_launcher.py",
+    "relative_path": "giwanos_auto_loop\\loop_launcher.py",
+    "size": 2209,
+    "modified": "2025-07-13T07:38:11.954498",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_launcher_local.py",
+    "relative_path": "giwanos_auto_loop\\loop_launcher_local.py",
+    "size": 865,
+    "modified": "2025-07-13T03:25:24.421316",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_live_dashboard.py",
+    "relative_path": "giwanos_auto_loop\\loop_live_dashboard.py",
+    "size": 814,
+    "modified": "2025-07-14T13:39:51.704390",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_monitor_dashboard.py",
+    "relative_path": "giwanos_auto_loop\\loop_monitor_dashboard.py",
+    "size": 1312,
+    "modified": "2025-07-14T13:39:51.661646",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_multiuser_router.py",
+    "relative_path": "giwanos_auto_loop\\loop_multiuser_router.py",
+    "size": 785,
+    "modified": "2025-07-14T13:39:51.702360",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_mutator.py",
+    "relative_path": "giwanos_auto_loop\\loop_mutator.py",
+    "size": 724,
+    "modified": "2025-07-14T14:54:27.004234",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_natural_selector.py",
+    "relative_path": "giwanos_auto_loop\\loop_natural_selector.py",
+    "size": 1126,
+    "modified": "2025-07-14T13:39:51.674611",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_parallel_runner.py",
+    "relative_path": "giwanos_auto_loop\\loop_parallel_runner.py",
+    "size": 697,
+    "modified": "2025-07-14T13:39:51.708379",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_path_optimizer.py",
+    "relative_path": "giwanos_auto_loop\\loop_path_optimizer.py",
+    "size": 1428,
+    "modified": "2025-07-14T13:39:51.692386",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_profile_router.py",
+    "relative_path": "giwanos_auto_loop\\loop_profile_router.py",
+    "size": 894,
+    "modified": "2025-07-14T13:39:51.665635",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_reactivator.py",
+    "relative_path": "giwanos_auto_loop\\loop_reactivator.py",
+    "size": 1701,
+    "modified": "2025-07-14T13:39:51.667629",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_reason_generator.py",
+    "relative_path": "giwanos_auto_loop\\loop_reason_generator.py",
+    "size": 1290,
+    "modified": "2025-07-14T13:39:51.692386",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_recommender.py",
+    "relative_path": "giwanos_auto_loop\\loop_recommender.py",
+    "size": 1852,
+    "modified": "2025-07-14T13:39:51.618848",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_recommender_trainer.py",
+    "relative_path": "giwanos_auto_loop\\loop_recommender_trainer.py",
+    "size": 1214,
+    "modified": "2025-07-14T13:39:51.690392",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_reflection_log.pdf",
+    "relative_path": "giwanos_auto_loop\\loop_reflection_log.pdf",
+    "size": 1789,
+    "modified": "2025-07-14T11:45:01.187310",
+    "extension": ".pdf"
+  },
+  {
+    "name": "loop_reflector.py",
+    "relative_path": "giwanos_auto_loop\\loop_reflector.py",
+    "size": 2193,
+    "modified": "2025-07-13T03:25:24.421316",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_report_sender.py",
+    "relative_path": "giwanos_auto_loop\\loop_report_sender.py",
+    "size": 1147,
+    "modified": "2025-07-14T13:39:51.680100",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_result_hub.py",
+    "relative_path": "giwanos_auto_loop\\loop_result_hub.py",
+    "size": 713,
+    "modified": "2025-07-14T13:39:51.711658",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_retirement.py",
+    "relative_path": "giwanos_auto_loop\\loop_retirement.py",
+    "size": 809,
+    "modified": "2025-07-14T13:39:51.661646",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_rl_trainer.py",
+    "relative_path": "giwanos_auto_loop\\loop_rl_trainer.py",
+    "size": 1168,
+    "modified": "2025-07-14T13:39:51.696380",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_scheduler.py",
+    "relative_path": "giwanos_auto_loop\\loop_scheduler.py",
+    "size": 1290,
+    "modified": "2025-07-14T13:39:51.646863",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_selector.py",
+    "relative_path": "giwanos_auto_loop\\loop_selector.py",
+    "size": 1238,
+    "modified": "2025-07-14T13:39:51.664638",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_simulator.py",
+    "relative_path": "giwanos_auto_loop\\loop_simulator.py",
+    "size": 1391,
+    "modified": "2025-07-14T13:39:51.674611",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_species_leader_selector.py",
+    "relative_path": "giwanos_auto_loop\\loop_species_leader_selector.py",
+    "size": 1111,
+    "modified": "2025-07-14T13:39:51.721937",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_species_reporter.py",
+    "relative_path": "giwanos_auto_loop\\loop_species_reporter.py",
+    "size": 1132,
+    "modified": "2025-07-14T13:39:51.722929",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_species_simulator.py",
+    "relative_path": "giwanos_auto_loop\\loop_species_simulator.py",
+    "size": 1344,
+    "modified": "2025-07-14T13:39:51.719720",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_state_dashboard.py",
+    "relative_path": "giwanos_auto_loop\\loop_state_dashboard.py",
+    "size": 1867,
+    "modified": "2025-07-14T13:39:51.654229",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_summary_reporter.py",
+    "relative_path": "giwanos_auto_loop\\loop_summary_reporter.py",
+    "size": 1496,
+    "modified": "2025-07-14T13:39:51.632811",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_summary_streamlit.py",
+    "relative_path": "giwanos_auto_loop\\loop_summary_streamlit.py",
+    "size": 1110,
+    "modified": "2025-07-14T13:39:51.638882",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_summary_writer.py",
+    "relative_path": "giwanos_auto_loop\\loop_summary_writer.py",
+    "size": 1057,
+    "modified": "2025-07-14T14:33:10.701319",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_survival_analyzer.py",
+    "relative_path": "giwanos_auto_loop\\loop_survival_analyzer.py",
+    "size": 1232,
+    "modified": "2025-07-14T13:39:51.686080",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_survival_trend_analyzer.py",
+    "relative_path": "giwanos_auto_loop\\loop_survival_trend_analyzer.py",
+    "size": 911,
+    "modified": "2025-07-14T13:39:51.720720",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_thought_trigger.json",
+    "relative_path": "giwanos_auto_loop\\loop_thought_trigger.json",
+    "size": 227,
+    "modified": "2025-07-14T13:39:51.638882",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_tree_visualizer.py",
+    "relative_path": "giwanos_auto_loop\\loop_tree_visualizer.py",
+    "size": 774,
+    "modified": "2025-07-14T13:39:51.677603",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_weight_adjuster.py",
+    "relative_path": "giwanos_auto_loop\\loop_weight_adjuster.py",
+    "size": 1070,
+    "modified": "2025-07-14T13:39:51.700366",
+    "extension": ".py"
+  },
+  {
+    "name": "memory_guard.py",
+    "relative_path": "giwanos_auto_loop\\memory_guard.py",
+    "size": 884,
+    "modified": "2025-07-13T03:25:39.300984",
+    "extension": ".py"
+  },
+  {
+    "name": "memory_manifest.json",
+    "relative_path": "giwanos_auto_loop\\memory_manifest.json",
+    "size": 49,
+    "modified": "2025-07-13T07:38:42.491013",
+    "extension": ".json"
+  },
+  {
+    "name": "memory_sync.py",
+    "relative_path": "giwanos_auto_loop\\memory_sync.py",
+    "size": 2172,
+    "modified": "2025-07-13T03:25:34.175353",
+    "extension": ".py"
+  },
+  {
+    "name": "notify_evolution_slack.py",
+    "relative_path": "giwanos_auto_loop\\notify_evolution_slack.py",
+    "size": 1000,
+    "modified": "2025-07-14T13:39:51.647859",
+    "extension": ".py"
+  },
+  {
+    "name": "notify_recommendation_slack.py",
+    "relative_path": "giwanos_auto_loop\\notify_recommendation_slack.py",
+    "size": 1199,
+    "modified": "2025-07-14T13:39:51.634893",
+    "extension": ".py"
+  },
+  {
+    "name": "notion_auto_reporter_fixed_v2.py",
+    "relative_path": "giwanos_auto_loop\\notion_auto_reporter_fixed_v2.py",
+    "size": 1669,
+    "modified": "2025-07-13T04:44:14.695851",
+    "extension": ".py"
+  },
+  {
+    "name": "pc_status.json",
+    "relative_path": "giwanos_auto_loop\\pc_status.json",
+    "size": 115,
+    "modified": "2025-07-13T07:38:42.490018",
+    "extension": ".json"
+  },
+  {
+    "name": "purpose_based_recommender.py",
+    "relative_path": "giwanos_auto_loop\\purpose_based_recommender.py",
+    "size": 1800,
+    "modified": "2025-07-14T13:39:51.641875",
+    "extension": ".py"
+  },
+  {
+    "name": "recommend_stats_analyzer.py",
+    "relative_path": "giwanos_auto_loop\\recommend_stats_analyzer.py",
+    "size": 1252,
+    "modified": "2025-07-14T13:39:51.633900",
+    "extension": ".py"
+  },
+  {
+    "name": "recommend_to_notion.py",
+    "relative_path": "giwanos_auto_loop\\recommend_to_notion.py",
+    "size": 2200,
+    "modified": "2025-07-14T13:39:51.630816",
+    "extension": ".py"
+  },
+  {
+    "name": "reflection_result.json",
+    "relative_path": "giwanos_auto_loop\\reflection_result.json",
+    "size": 245,
+    "modified": "2025-07-13T09:12:40.990299",
+    "extension": ".json"
+  },
+  {
+    "name": "reflection_summary.json",
+    "relative_path": "giwanos_auto_loop\\reflection_summary.json",
+    "size": 288,
+    "modified": "2025-07-13T09:04:30.268197",
+    "extension": ".json"
+  },
+  {
+    "name": "repeat_judge_runner.py",
+    "relative_path": "giwanos_auto_loop\\repeat_judge_runner.py",
+    "size": 1045,
+    "modified": "2025-07-14T13:39:51.629820",
+    "extension": ".py"
+  },
+  {
+    "name": "run_giwanos_full_loop.py",
+    "relative_path": "giwanos_auto_loop\\run_giwanos_full_loop.py",
+    "size": 2072,
+    "modified": "2025-07-14T15:12:56.821151",
+    "extension": ".py"
+  },
+  {
+    "name": "self_reflect_loop.py",
+    "relative_path": "giwanos_auto_loop\\self_reflect_loop.py",
+    "size": 2632,
+    "modified": "2025-07-13T03:25:20.704017",
+    "extension": ".py"
+  },
+  {
+    "name": "setup_giwanos.py",
+    "relative_path": "giwanos_auto_loop\\setup_giwanos.py",
+    "size": 1216,
+    "modified": "2025-07-13T07:38:06.548246",
+    "extension": ".py"
+  },
+  {
+    "name": "slack_notify_simulated.py",
+    "relative_path": "giwanos_auto_loop\\slack_notify_simulated.py",
+    "size": 565,
+    "modified": "2025-07-13T07:38:11.960482",
+    "extension": ".py"
+  },
+  {
+    "name": "smart_judge.py",
+    "relative_path": "giwanos_auto_loop\\smart_judge.py",
+    "size": 530,
+    "modified": "2025-07-13T13:38:40.412791",
+    "extension": ".py"
+  },
+  {
+    "name": "streamlit_ui_status.py",
+    "relative_path": "giwanos_auto_loop\\streamlit_ui_status.py",
+    "size": 864,
+    "modified": "2025-07-13T07:38:11.962966",
+    "extension": ".py"
+  },
+  {
+    "name": "summarize_loop_log.py",
+    "relative_path": "giwanos_auto_loop\\summarize_loop_log.py",
+    "size": 604,
+    "modified": "2025-07-13T07:38:11.953501",
+    "extension": ".py"
+  },
+  {
+    "name": "tree_thought_simulator.py",
+    "relative_path": "giwanos_auto_loop\\tree_thought_simulator.py",
+    "size": 1736,
+    "modified": "2025-07-13T12:08:33.153748",
+    "extension": ".py"
+  },
+  {
+    "name": "trigger_generator.py",
+    "relative_path": "giwanos_auto_loop\\trigger_generator.py",
+    "size": 552,
+    "modified": "2025-07-13T07:38:11.951506",
+    "extension": ".py"
+  },
+  {
+    "name": "upload_final_runner.py",
+    "relative_path": "giwanos_auto_loop\\upload_final_runner.py",
+    "size": 2716,
+    "modified": "2025-07-13T13:18:49.283382",
+    "extension": ".py"
+  },
+  {
+    "name": "zip_backup_generator.py",
+    "relative_path": "giwanos_auto_loop\\zip_backup_generator.py",
+    "size": 672,
+    "modified": "2025-07-13T07:38:10.036080",
+    "extension": ".py"
+  },
+  {
+    "name": "zip_giwanos_v5_packager.py",
+    "relative_path": "giwanos_auto_loop\\zip_giwanos_v5_packager.py",
+    "size": 654,
+    "modified": "2025-07-13T07:38:11.979740",
+    "extension": ".py"
+  },
+  {
+    "name": "zip_release_full.py",
+    "relative_path": "giwanos_auto_loop\\zip_release_full.py",
+    "size": 539,
+    "modified": "2025-07-13T07:38:11.962087",
+    "extension": ".py"
+  },
+  {
+    "name": "zip_release_kit.py",
+    "relative_path": "giwanos_auto_loop\\zip_release_kit.py",
+    "size": 665,
+    "modified": "2025-07-13T07:38:11.957491",
+    "extension": ".py"
+  },
+  {
+    "name": "__init__.py",
+    "relative_path": "giwanos_auto_loop\\__init__.py",
+    "size": 0,
+    "modified": "2025-07-13T13:54:13.872218",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_backup_20250713_062540.zip",
+    "relative_path": "giwanos_auto_loop\\backups\\loop_backup_20250713_062540.zip",
+    "size": 58598,
+    "modified": "2025-07-13T06:25:40.974277",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250713_072905.zip",
+    "relative_path": "giwanos_auto_loop\\backups\\loop_backup_20250713_072905.zip",
+    "size": 72139,
+    "modified": "2025-07-13T07:29:05.964568",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250713_073853.zip",
+    "relative_path": "giwanos_auto_loop\\backups\\loop_backup_20250713_073853.zip",
+    "size": 73751,
+    "modified": "2025-07-13T07:38:53.744235",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250713_081448.zip",
+    "relative_path": "giwanos_auto_loop\\backups\\loop_backup_20250713_081448.zip",
+    "size": 74784,
+    "modified": "2025-07-13T08:14:48.196425",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250713_082036.zip",
+    "relative_path": "giwanos_auto_loop\\backups\\loop_backup_20250713_082036.zip",
+    "size": 74784,
+    "modified": "2025-07-13T08:20:36.881543",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250713_090226.zip",
+    "relative_path": "giwanos_auto_loop\\backups\\loop_backup_20250713_090226.zip",
+    "size": 75647,
+    "modified": "2025-07-13T09:02:26.997811",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250713_091140.zip",
+    "relative_path": "giwanos_auto_loop\\backups\\loop_backup_20250713_091140.zip",
+    "size": 76127,
+    "modified": "2025-07-13T09:11:40.387164",
+    "extension": ".zip"
+  },
+  {
+    "name": "agent_memory.py",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\agent_memory.py",
+    "size": 1304,
+    "modified": "2025-07-13T12:08:33.158737",
+    "extension": ".py"
+  },
+  {
+    "name": "agent_memory_snapshot.py",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\agent_memory_snapshot.py",
+    "size": 691,
+    "modified": "2025-07-13T12:08:33.162086",
+    "extension": ".py"
+  },
+  {
+    "name": "generate_pdf.py",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\generate_pdf.py",
+    "size": 605,
+    "modified": "2025-07-13T12:08:33.156751",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_backup_20250714_082313.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_082313.zip",
+    "size": 7024,
+    "modified": "2025-07-14T08:23:13.342746",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_083707.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_083707.zip",
+    "size": 7024,
+    "modified": "2025-07-14T08:37:07.237718",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_093023.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_093023.zip",
+    "size": 7024,
+    "modified": "2025-07-14T09:30:23.509836",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_094501.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_094501.zip",
+    "size": 7024,
+    "modified": "2025-07-14T09:45:01.478126",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_095149.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_095149.zip",
+    "size": 7024,
+    "modified": "2025-07-14T09:51:49.081139",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_095734.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_095734.zip",
+    "size": 7024,
+    "modified": "2025-07-14T09:57:34.617836",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_095916.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_095916.zip",
+    "size": 7024,
+    "modified": "2025-07-14T09:59:16.248597",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_095957.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_095957.zip",
+    "size": 7024,
+    "modified": "2025-07-14T09:59:57.535285",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_100410.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_100410.zip",
+    "size": 7024,
+    "modified": "2025-07-14T10:04:10.598354",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_101338.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_101338.zip",
+    "size": 7024,
+    "modified": "2025-07-14T10:13:38.032410",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_102812.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_102812.zip",
+    "size": 7024,
+    "modified": "2025-07-14T10:28:12.895403",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_111025.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_111025.zip",
+    "size": 7024,
+    "modified": "2025-07-14T11:10:25.989860",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_112203.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_112203.zip",
+    "size": 7024,
+    "modified": "2025-07-14T11:22:03.792326",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_backup_20250714_114502.zip",
+    "relative_path": "giwanos_auto_loop\\giwanos_auto_loop\\backups\\loop_backup_20250714_114502.zip",
+    "size": 7024,
+    "modified": "2025-07-14T11:45:02.997907",
+    "extension": ".zip"
+  },
+  {
+    "name": "reflection_log.json",
+    "relative_path": "giwanos_auto_loop\\giwanos_memory\\reflection_log.json",
+    "size": 434,
+    "modified": "2025-07-13T12:08:33.165073",
+    "extension": ".json"
+  },
+  {
+    "name": "route_feedback_analyzer.py",
+    "relative_path": "giwanos_feedback_loop\\route_feedback_analyzer.py",
+    "size": 1015,
+    "modified": "2025-07-14T07:45:25.565781",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_survival_analyzer.py",
+    "relative_path": "giwanos_loop_evolution\\loop_survival_analyzer.py",
+    "size": 1253,
+    "modified": "2025-07-14T07:49:31.478619",
+    "extension": ".py"
+  },
+  {
+    "name": "feedback_kpi_latest.json",
+    "relative_path": "giwanos_memory\\feedback_kpi_latest.json",
+    "size": 187,
+    "modified": "2025-07-13T03:33:54.736978",
+    "extension": ".json"
+  },
+  {
+    "name": "flow_tree_decision.json",
+    "relative_path": "giwanos_memory\\flow_tree_decision.json",
+    "size": 160,
+    "modified": "2025-07-13T03:33:55.071302",
+    "extension": ".json"
+  },
+  {
+    "name": "reflection_summary.json",
+    "relative_path": "giwanos_memory\\reflection_summary.json",
+    "size": 278,
+    "modified": "2025-07-13T08:38:15.295660",
+    "extension": ".json"
+  },
+  {
+    "name": "self_action_recommendation.json",
+    "relative_path": "giwanos_memory\\self_action_recommendation.json",
+    "size": 85,
+    "modified": "2025-07-13T03:33:57.412907",
+    "extension": ".json"
+  },
+  {
+    "name": "summary_info.json",
+    "relative_path": "giwanos_memory\\summary_info.json",
+    "size": 82,
+    "modified": "2025-07-13T03:33:54.642231",
+    "extension": ".json"
+  },
+  {
+    "name": "정산_보고서_테스트.pdf",
+    "relative_path": "giwanos_memory\\정산_보고서_테스트.pdf",
+    "size": 35,
+    "modified": "2025-07-13T03:33:54.550220",
+    "extension": ".pdf"
+  },
+  {
+    "name": "loop_backup_20250713_0810.zip",
+    "relative_path": "giwanos_memory\\backups\\loop_backup_20250713_0810.zip",
+    "size": 22,
+    "modified": "2025-07-13T08:10:51.808123",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_philosophy.json",
+    "relative_path": "giwanos_self_awareness\\loop_philosophy.json",
+    "size": 937,
+    "modified": "2025-07-14T07:50:18.438348",
+    "extension": ".json"
+  },
+  {
+    "name": "philosophy_checker.py",
+    "relative_path": "giwanos_self_awareness\\philosophy_checker.py",
+    "size": 1240,
+    "modified": "2025-07-14T07:50:18.447325",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_generator.py",
+    "relative_path": "giwanos_self_design\\loop_generator.py",
+    "size": 1560,
+    "modified": "2025-07-14T07:45:44.668880",
+    "extension": ".py"
+  },
+  {
+    "name": "evolution_plan_log.json",
+    "relative_path": "logs\\evolution_plan_log.json",
+    "size": 204,
+    "modified": "2025-07-14T13:39:51.755336",
+    "extension": ".json"
+  },
+  {
+    "name": "file_sort_execution_log.json",
+    "relative_path": "logs\\file_sort_execution_log.json",
+    "size": 298,
+    "modified": "2025-07-14T13:39:51.758328",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_agent_routes.json",
+    "relative_path": "logs\\loop_agent_routes.json",
+    "size": 253,
+    "modified": "2025-07-14T13:39:51.765311",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_config.json",
+    "relative_path": "logs\\loop_config.json",
+    "size": 40,
+    "modified": "2025-07-14T15:13:26.693328",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_execution_memory.json",
+    "relative_path": "logs\\loop_execution_memory.json",
+    "size": 2,
+    "modified": "2025-07-14T13:39:51.751183",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_feedback_log.json",
+    "relative_path": "logs\\loop_feedback_log.json",
+    "size": 1846,
+    "modified": "2025-07-14T15:32:08.090798",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_fusion_tree.json",
+    "relative_path": "logs\\loop_fusion_tree.json",
+    "size": 390,
+    "modified": "2025-07-14T13:39:51.773323",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_genes.json",
+    "relative_path": "logs\\loop_genes.json",
+    "size": 396,
+    "modified": "2025-07-14T13:39:51.763316",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_genes_mutated.json",
+    "relative_path": "logs\\loop_genes_mutated.json",
+    "size": 150,
+    "modified": "2025-07-14T15:32:08.083308",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_gene_lineage.json",
+    "relative_path": "logs\\loop_gene_lineage.json",
+    "size": 528,
+    "modified": "2025-07-14T13:39:51.761322",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_interaction_matrix.json",
+    "relative_path": "logs\\loop_interaction_matrix.json",
+    "size": 341,
+    "modified": "2025-07-14T13:39:51.754338",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_local_sync_log.json",
+    "relative_path": "logs\\loop_local_sync_log.json",
+    "size": 50376,
+    "modified": "2025-07-14T15:22:58.555444",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_local_sync_snapshot.json",
+    "relative_path": "logs\\loop_local_sync_snapshot.json",
+    "size": 50376,
+    "modified": "2025-07-14T15:39:23.418239",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_mutator.py",
+    "relative_path": "logs\\loop_mutator.py",
+    "size": 724,
+    "modified": "2025-07-14T14:53:28.955506",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_priority_model.json",
+    "relative_path": "logs\\loop_priority_model.json",
+    "size": 352,
+    "modified": "2025-07-14T13:39:51.749193",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_profile_routes.json",
+    "relative_path": "logs\\loop_profile_routes.json",
+    "size": 236,
+    "modified": "2025-07-14T13:39:51.759326",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_recommendation_log.json",
+    "relative_path": "logs\\loop_recommendation_log.json",
+    "size": 2,
+    "modified": "2025-07-14T13:39:51.750190",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_recommendation_model.json",
+    "relative_path": "logs\\loop_recommendation_model.json",
+    "size": 460,
+    "modified": "2025-07-14T15:32:08.090798",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_score_tracker.json",
+    "relative_path": "logs\\loop_score_tracker.json",
+    "size": 444,
+    "modified": "2025-07-14T13:39:51.765311",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_species_leaders.json",
+    "relative_path": "logs\\loop_species_leaders.json",
+    "size": 127,
+    "modified": "2025-07-14T13:39:51.771328",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_survivors_species.json",
+    "relative_path": "logs\\loop_survivors_species.json",
+    "size": 149,
+    "modified": "2025-07-14T13:39:51.769333",
+    "extension": ".json"
+  },
+  {
+    "name": "upload_error_log.json",
+    "relative_path": "logs\\upload_error_log.json",
+    "size": 947,
+    "modified": "2025-07-14T15:37:17.822284",
+    "extension": ".json"
+  },
+  {
+    "name": "user_profile.json",
+    "relative_path": "logs\\user_profile.json",
+    "size": 67,
+    "modified": "2025-07-14T13:39:51.756342",
+    "extension": ".json"
+  },
+  {
+    "name": "user_profiles.json",
+    "relative_path": "logs\\user_profiles.json",
+    "size": 203,
+    "modified": "2025-07-14T13:39:51.763316",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_backup_20250714_113103.zip",
+    "relative_path": "loop_backups\\loop_backup_20250714_113103.zip",
+    "size": 1151,
+    "modified": "2025-07-14T11:31:03.922956",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_snapshot_2025-07-13.zip",
+    "relative_path": "loop_backups\\loop_snapshot_2025-07-13.zip",
+    "size": 2371,
+    "modified": "2025-07-13T13:02:33.458676",
+    "extension": ".zip"
+  },
+  {
+    "name": "loop_relation_log.json",
+    "relative_path": "v14\\loop_relation_log.json",
+    "size": 7053,
+    "modified": "2025-07-14T13:34:39.095931",
+    "extension": ".json"
+  },
+  {
+    "name": "run_giwanos_v14_loop.py",
+    "relative_path": "v14\\run_giwanos_v14_loop.py",
+    "size": 1281,
+    "modified": "2025-07-14T07:34:48.433553",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_cross_referencer.py",
+    "relative_path": "v14\\giwanos_meta_loop\\loop_cross_referencer.py",
+    "size": 1286,
+    "modified": "2025-07-14T07:34:48.448973",
+    "extension": ".py"
+  },
+  {
+    "name": "meta_collab_planner.py",
+    "relative_path": "v14\\giwanos_meta_loop\\meta_collab_planner.py",
+    "size": 966,
+    "modified": "2025-07-14T07:34:48.446978",
+    "extension": ".py"
+  },
+  {
+    "name": "meta_loop_state.json",
+    "relative_path": "v14\\giwanos_meta_loop\\meta_loop_state.json",
+    "size": 411,
+    "modified": "2025-07-14T07:34:48.441625",
+    "extension": ".json"
+  },
+  {
+    "name": "run_giwanos_v15_loop.py",
+    "relative_path": "v15\\run_giwanos_v15_loop.py",
+    "size": 1189,
+    "modified": "2025-07-14T10:10:36.729094",
+    "extension": ".py"
+  },
+  {
+    "name": "intent_parser.py",
+    "relative_path": "v15\\giwanos_path_loop\\intent_parser.py",
+    "size": 363,
+    "modified": "2025-07-14T10:10:36.729094",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_catalog.json",
+    "relative_path": "v15\\giwanos_path_loop\\loop_catalog.json",
+    "size": 220,
+    "modified": "2025-07-14T10:10:36.747046",
+    "extension": ".json"
+  },
+  {
+    "name": "path_planner.py",
+    "relative_path": "v15\\giwanos_path_loop\\path_planner.py",
+    "size": 789,
+    "modified": "2025-07-14T10:10:36.744054",
+    "extension": ".py"
+  },
+  {
+    "name": "route_log.json",
+    "relative_path": "v15\\giwanos_path_loop\\route_log.json",
+    "size": 1142,
+    "modified": "2025-07-14T11:45:22.292663",
+    "extension": ".json"
+  },
+  {
+    "name": "run_giwanos_v15_loop.py",
+    "relative_path": "v15\\giwanos_path_loop\\run_giwanos_v15_loop.py",
+    "size": 1231,
+    "modified": "2025-07-14T09:42:30.350209",
+    "extension": ".py"
+  },
+  {
+    "name": "intent_parser.py",
+    "relative_path": "v15\\giwanos_path_loop\\giwanos_path_loop\\intent_parser.py",
+    "size": 384,
+    "modified": "2025-07-14T09:42:30.350209",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_catalog.json",
+    "relative_path": "v15\\giwanos_path_loop\\giwanos_path_loop\\loop_catalog.json",
+    "size": 220,
+    "modified": "2025-07-14T09:42:30.361599",
+    "extension": ".json"
+  },
+  {
+    "name": "path_planner.py",
+    "relative_path": "v15\\giwanos_path_loop\\giwanos_path_loop\\path_planner.py",
+    "size": 790,
+    "modified": "2025-07-14T09:42:30.358606",
+    "extension": ".py"
+  },
+  {
+    "name": "route_log.json",
+    "relative_path": "v15\\giwanos_path_loop\\giwanos_path_loop\\route_log.json",
+    "size": 2,
+    "modified": "2025-07-14T09:42:30.358606",
+    "extension": ".json"
+  },
+  {
+    "name": "run_giwanos_v16_loop.py",
+    "relative_path": "v16\\run_giwanos_v16_loop.py",
+    "size": 1022,
+    "modified": "2025-07-14T10:03:49.148829",
+    "extension": ".py"
+  },
+  {
+    "name": "route_feedback_analyzer.py",
+    "relative_path": "v16\\giwanos_feedback_loop\\route_feedback_analyzer.py",
+    "size": 1015,
+    "modified": "2025-07-14T07:51:29.369050",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_blueprint.json",
+    "relative_path": "v17\\loop_blueprint.json",
+    "size": 172,
+    "modified": "2025-07-14T11:45:30.086402",
+    "extension": ".json"
+  },
+  {
+    "name": "run_giwanos_v17_loop.py",
+    "relative_path": "v17\\run_giwanos_v17_loop.py",
+    "size": 900,
+    "modified": "2025-07-14T07:52:25.750835",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_generator.py",
+    "relative_path": "v17\\giwanos_self_design\\loop_generator.py",
+    "size": 1560,
+    "modified": "2025-07-14T07:52:25.750835",
+    "extension": ".py"
+  },
+  {
+    "name": "run_giwanos_v18_loop.py",
+    "relative_path": "v18\\run_giwanos_v18_loop.py",
+    "size": 755,
+    "modified": "2025-07-14T07:48:13.971066",
+    "extension": ".py"
+  },
+  {
+    "name": "ecosystem_manager.py",
+    "relative_path": "v18\\giwanos_loop_ecosystem\\ecosystem_manager.py",
+    "size": 1541,
+    "modified": "2025-07-14T07:48:13.972062",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_agent_config.json",
+    "relative_path": "v18\\giwanos_loop_ecosystem\\loop_agent_config.json",
+    "size": 411,
+    "modified": "2025-07-14T07:48:13.979268",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_ecosystem_log.json",
+    "relative_path": "v18\\giwanos_loop_ecosystem\\loop_ecosystem_log.json",
+    "size": 1915,
+    "modified": "2025-07-14T11:45:30.231598",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_ecosystem_state.json",
+    "relative_path": "v18\\giwanos_loop_ecosystem\\loop_ecosystem_state.json",
+    "size": 481,
+    "modified": "2025-07-14T11:45:30.230596",
+    "extension": ".json"
+  },
+  {
+    "name": "run_giwanos_v19_loop.py",
+    "relative_path": "v19\\run_giwanos_v19_loop.py",
+    "size": 822,
+    "modified": "2025-07-14T07:53:17.411510",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_fitness_score.json",
+    "relative_path": "v19\\giwanos_loop_evolution\\loop_fitness_score.json",
+    "size": 2,
+    "modified": "2025-07-14T11:45:30.365096",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_survival_analyzer.py",
+    "relative_path": "v19\\giwanos_loop_evolution\\loop_survival_analyzer.py",
+    "size": 1253,
+    "modified": "2025-07-14T07:53:17.411510",
+    "extension": ".py"
+  },
+  {
+    "name": "run_giwanos_v20_loop.py",
+    "relative_path": "v20\\run_giwanos_v20_loop.py",
+    "size": 980,
+    "modified": "2025-07-14T07:53:30.865129",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_philosophy.json",
+    "relative_path": "v20\\giwanos_self_awareness\\loop_philosophy.json",
+    "size": 937,
+    "modified": "2025-07-14T07:53:30.865129",
+    "extension": ".json"
+  },
+  {
+    "name": "meta_conscience_log.json",
+    "relative_path": "v20\\giwanos_self_awareness\\meta_conscience_log.json",
+    "size": 702,
+    "modified": "2025-07-14T11:45:39.979990",
+    "extension": ".json"
+  },
+  {
+    "name": "philosophy_checker.py",
+    "relative_path": "v20\\giwanos_self_awareness\\philosophy_checker.py",
+    "size": 1240,
+    "modified": "2025-07-14T07:53:30.873882",
+    "extension": ".py"
+  },
+  {
+    "name": "run_giwanos_v21_loop.py",
+    "relative_path": "v21\\run_giwanos_v21_loop.py",
+    "size": 725,
+    "modified": "2025-07-14T10:24:38.836719",
+    "extension": ".py"
+  },
+  {
+    "name": "loop_philosophy.json",
+    "relative_path": "v21\\giwanos_self_awareness\\loop_philosophy.json",
+    "size": 937,
+    "modified": "2025-07-14T10:24:38.835721",
+    "extension": ".json"
+  },
+  {
+    "name": "loop_mutator.py",
+    "relative_path": "v21\\giwanos_self_evolution\\loop_mutator.py",
+    "size": 1525,
+    "modified": "2025-07-14T10:24:38.846693",
+    "extension": ".py"
+  },
+  {
+    "name": "replicated_loops.json",
+    "relative_path": "v21\\giwanos_self_evolution\\replicated_loops.json",
+    "size": 951,
+    "modified": "2025-07-14T11:45:46.480628",
+    "extension": ".json"
+  },
+  {
+    "name": "run_giwanos_v22_loop.py",
+    "relative_path": "v22\\run_giwanos_v22_loop.py",
+    "size": 943,
+    "modified": "2025-07-14T07:54:00.920555",
+    "extension": ".py"
+  },
+  {
+    "name": "design_outcome_log.json",
+    "relative_path": "v22\\giwanos_meta_designer\\design_outcome_log.json",
+    "size": 2,
+    "modified": "2025-07-14T11:45:46.641112",
+    "extension": ".json"
+  },
+  {
+    "name": "philosophy_evaluator.py",
+    "relative_path": "v22\\giwanos_meta_designer\\philosophy_evaluator.py",
+    "size": 1550,
+    "modified": "2025-07-14T07:54:00.920555",
+    "extension": ".py"
+  },
+  {
+    "name": "run_giwanos_v23_loop.py",
+    "relative_path": "v23\\run_giwanos_v23_loop.py",
+    "size": 872,
+    "modified": "2025-07-14T07:54:17.591373",
+    "extension": ".py"
+  },
+  {
+    "name": "context_snapshot.json",
+    "relative_path": "v23\\giwanos_self_creator\\context_snapshot.json",
+    "size": 238,
+    "modified": "2025-07-14T11:45:53.767978",
+    "extension": ".json"
+  },
+  {
+    "name": "realtime_judge_generator.py",
+    "relative_path": "v23\\giwanos_self_creator\\realtime_judge_generator.py",
+    "size": 1897,
+    "modified": "2025-07-14T07:54:17.591373",
+    "extension": ".py"
+  },
+  {
+    "name": "self_created_loops.json",
+    "relative_path": "v23\\giwanos_self_creator\\self_created_loops.json",
+    "size": 469,
+    "modified": "2025-07-14T11:45:53.767978",
+    "extension": ".json"
+  },
+  {
+    "name": "GIWANOS_Installer_v13_REBUILT.zip",
+    "relative_path": "zip\\GIWANOS_Installer_v13_REBUILT.zip",
+    "size": 681,
+    "modified": "2025-07-14T05:28:41.652690",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v14_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v14_PATCHED.zip",
+    "size": 5035,
+    "modified": "2025-07-14T07:30:38.464832",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v15_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v15_PATCHED.zip",
+    "size": 4143,
+    "modified": "2025-07-14T07:30:49.773153",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v15_PATCHED_FINAL.zip",
+    "relative_path": "zip\\GIWANOS_v15_PATCHED_FINAL.zip",
+    "size": 2565,
+    "modified": "2025-07-14T08:30:07.716963",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v15_PATCHED_FINAL2.zip",
+    "relative_path": "zip\\GIWANOS_v15_PATCHED_FINAL2.zip",
+    "size": 2606,
+    "modified": "2025-07-14T08:35:49.354832",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v16_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v16_PATCHED.zip",
+    "size": 2099,
+    "modified": "2025-07-14T07:30:55.814152",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v17_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v17_PATCHED.zip",
+    "size": 2754,
+    "modified": "2025-07-14T07:31:01.426656",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v18_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v18_PATCHED.zip",
+    "size": 3179,
+    "modified": "2025-07-14T07:31:07.536216",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v19_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v19_PATCHED.zip",
+    "size": 2391,
+    "modified": "2025-07-14T07:31:13.580112",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v20_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v20_PATCHED.zip",
+    "size": 6767,
+    "modified": "2025-07-14T07:31:19.562174",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v21_FINAL_FIXED_OK.zip",
+    "relative_path": "zip\\GIWANOS_v21_FINAL_FIXED_OK.zip",
+    "size": 3645,
+    "modified": "2025-07-14T10:24:20.024428",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v21_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v21_PATCHED.zip",
+    "size": 2720,
+    "modified": "2025-07-14T07:31:27.086777",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v22_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v22_PATCHED.zip",
+    "size": 2803,
+    "modified": "2025-07-14T07:31:32.409871",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v23_FINAL_FULL_SNAPSHOT.zip",
+    "relative_path": "zip\\GIWANOS_v23_FINAL_FULL_SNAPSHOT.zip",
+    "size": 11207,
+    "modified": "2025-07-14T11:49:40.298342",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v23_FINAL_INSTALL_PACKAGE.zip",
+    "relative_path": "zip\\GIWANOS_v23_FINAL_INSTALL_PACKAGE.zip",
+    "size": 9392,
+    "modified": "2025-07-14T11:37:57.101866",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v23_FINAL_REPORT_BUNDLE.zip",
+    "relative_path": "zip\\GIWANOS_v23_FINAL_REPORT_BUNDLE.zip",
+    "size": 5776,
+    "modified": "2025-07-14T11:09:02.588583",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v23_PATCHED.zip",
+    "relative_path": "zip\\GIWANOS_v23_PATCHED.zip",
+    "size": 3085,
+    "modified": "2025-07-14T07:31:39.245121",
+    "extension": ".zip"
+  },
+  {
+    "name": "giwanos_v3.0_SELF_REFLECT_READY.zip",
+    "relative_path": "zip\\giwanos_v3.0_SELF_REFLECT_READY.zip",
+    "size": 34767,
+    "modified": "2025-07-13T03:25:07.772749",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v40_FULL_INSTALLABLE.zip",
+    "relative_path": "zip\\GIWANOS_v40_FULL_INSTALLABLE.zip",
+    "size": 69178,
+    "modified": "2025-07-14T13:32:44.007088",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v5.5_FULL.zip",
+    "relative_path": "zip\\GIWANOS_v5.5_FULL.zip",
+    "size": 37773,
+    "modified": "2025-07-13T06:50:23.681457",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v5.5_SETUP_FINAL.zip",
+    "relative_path": "zip\\GIWANOS_v5.5_SETUP_FINAL.zip",
+    "size": 53236,
+    "modified": "2025-07-13T12:12:13.937995",
+    "extension": ".zip"
+  },
+  {
+    "name": "GIWANOS_v5_FULL.zip",
+    "relative_path": "zip\\GIWANOS_v5_FULL.zip",
+    "size": 24767,
+    "modified": "2025-07-13T06:10:34.152759",
+    "extension": ".zip"
+  },
+  {
+    "name": "giwanos_v6_FULL_PACKAGE.zip",
+    "relative_path": "zip\\giwanos_v6_FULL_PACKAGE.zip",
+    "size": 7947,
+    "modified": "2025-07-13T12:05:31.739260",
+    "extension": ".zip"
+  }
+]

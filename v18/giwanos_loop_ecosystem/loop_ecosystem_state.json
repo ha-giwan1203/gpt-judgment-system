@@ -1,0 +1,22 @@
+[
+  {
+    "loop": "judgement_loop",
+    "decision": "우선 실행",
+    "timestamp": "2025-07-14T11:45:30.230596"
+  },
+  {
+    "loop": "reflection_loop",
+    "decision": "보류",
+    "timestamp": "2025-07-14T11:45:30.230596"
+  },
+  {
+    "loop": "report_loop",
+    "decision": "협의 필요",
+    "timestamp": "2025-07-14T11:45:30.230596"
+  },
+  {
+    "loop": "sort_loop",
+    "decision": "협의 필요",
+    "timestamp": "2025-07-14T11:45:30.230596"
+  }
+]
