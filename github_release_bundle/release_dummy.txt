@@ -1,1 +1,1 @@
-Release executed: Release v202507200254 - Automated GIWANOS Release
+Release executed: Release v202507200300 - Automated GIWANOS Release
