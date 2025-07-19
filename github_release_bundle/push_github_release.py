@@ -16,9 +16,21 @@ def main():
     version_tag = TAG_PREFIX + datetime.datetime.now().strftime("%Y%m%d%H%M")
     message = f"Release {version_tag} - Automated GIWANOS Release"
 
+    # Dummy 파일 생성 (커밋 강제 유도)
+    with open("release_dummy.txt", "w", encoding="utf-8") as f:
+        f.write(f"Release executed: {message}\n")
+
+    # Git 명령 실행
+    run_git(["git add ."])
+
+    # 변경 사항 없으면 커밋 건너뜀
+    status = subprocess.run("git status --porcelain", shell=True, capture_output=True, text=True)
+    if not status.stdout.strip():
+        print("⚠️ 변경된 파일이 없어 커밋을 건너뜁니다.")
+    else:
+        run_git([f'git commit -m "{message}"'])
+
     run_git([
-        "git add .",
-        f'git commit -m "{message}"',
         "git push origin main",
         f"git tag {version_tag}",
         f"git push origin {version_tag}"
