@@ -16,7 +16,7 @@ def main():
 
     run("git add .")
     run(f'git commit -m "{message}"')
-    run("git pull origin main --rebase")
+    run("git pull --rebase --autostash")
     run("git push origin main")
     run(f"git tag {tag}")
     run(f"git push origin {tag}")
