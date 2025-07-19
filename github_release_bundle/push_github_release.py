@@ -16,24 +16,19 @@ def main():
     version_tag = TAG_PREFIX + datetime.datetime.now().strftime("%Y%m%d%H%M")
     message = f"Release {version_tag} - Automated GIWANOS Release"
 
-    # Dummy 파일로 커밋 유도
+    # Dummy 커밋 유도
     with open("release_dummy.txt", "w", encoding="utf-8") as f:
         f.write(f"Release executed: {message}\n")
 
-    # Git add
     run_git(["git add ."])
+    run_git([f'git commit -m "{message} (자동 커밋)"'])
 
-    # 변경사항 유무 판단
-    status = subprocess.run("git status --porcelain", shell=True, capture_output=True, text=True)
-    if not status.stdout.strip():
-        print("⚠️ 변경된 파일이 없어 커밋을 건너뜁니다.")
-    else:
-        run_git([f'git commit -m "{message} (자동 커밋)"'])
-
-    # pull 전에 커밋 처리 후 rebase
+    # 🔁 변경 사항 임시 저장 → pull → 복원
+    run_git(["git stash"])
     run_git(["git pull origin main --rebase"])
+    run_git(["git stash pop"])
 
-    # push 및 tag
+    # 최종 push 및 태그
     run_git([
         "git push origin main",
         f"git tag {version_tag}",
