@@ -1,0 +1,10 @@
+__pycache__/
+.env
+token.json
+loop_backups/
+snapshots/
+*.zip
+*.log
+*.pdf
+*.spec
+release_log.json
