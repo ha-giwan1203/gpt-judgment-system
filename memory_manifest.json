@@ -1,0 +1,11 @@
+{
+  "version": "vFinal_2025_07_19",
+  "autodetect": true,
+  "loop_entry": "loop_main_ui.py",
+  "trigger_files": [
+    ".env",
+    "loop_memory_state.json",
+    "loop_main_ui.py",
+    "README_MEMORY_RESTORE_GUIDE.md"
+  ]
+}

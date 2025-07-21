@@ -1,0 +1,144 @@
+{
+  "step": "설치 준비 완료",
+  "timestamp": "2025-07-19 10:04:02",
+  "completed": [],
+  "loop": {
+    "사고 루프": "작동 중 (지속 기록됨)",
+    "학습 루프": "작동 중 (회고 기반 피드백 루프)",
+    "회고 PDF": "loop_reflection_log.pdf",
+    "회고 MD": "loop_reflection_live_report.md",
+    "정리 기준": "정리_규칙.json",
+    "상태 저장": "install_state.json",
+    "반복 판단 루프": "repeat_judge_runner.py (내부 또는 향후 확장 가능)",
+    "회고 루프": "loop_reflection_live_report.md + generate_reflection_pdf.py",
+    "기억 저장": "loop_memory_state.json",
+    "상태 추적": "install_state.json",
+    "판단 루프": "repeat_judge_runner.py",
+    "실행기": "giwanos_launcher.py",
+    "진화 가능": "설계 가능 (next: 진화 루프 설계)"
+  },
+  "GPT_연동": {
+    "기억 불러오기": true,
+    "진행 상태 파악": true,
+    "세션 간 상태 유지": "install_state.json 기반 자동 복원",
+    "사고 루프 인식": "기록 기반 사고/회고 루프 자동 인식 활성화",
+    "추천 판단": "반복 루프 기반 GPT 판단 자동 생성 가능"
+  },
+  "설치환경": {
+    "설치경로": "C:/giwanos",
+    "설치방식": "setup_giwanos.py",
+    "압축기준": "GIWANOS_FINAL_INSTALLABLE_FULL_LOOP.zip",
+    "자동복원기능": true,
+    "지원환경": [
+      "Windows",
+      "Python >= 3.8"
+    ]
+  },
+  "루프_트리거": {
+    "기본 실행": "giwanos_launcher.py",
+    "자동 트리거": "install_state.json 기반",
+    "수동 루프": [
+      "repeat_judge_runner.py",
+      "zip_backup_generator.py"
+    ],
+    "회고 생성기": "generate_reflection_pdf.py"
+  },
+  "사용자_선언": {
+    "설계자": "지완",
+    "목표": "사고 기반 자동화 시스템 구축",
+    "기준일자": "2025-07-19",
+    "루프구조": "설치형 + 복원형 + 학습 루프 + 판단 루프 통합 시스템"
+  },
+  "진화_루프": {
+    "루프 평가기": "loop_evaluator.py (예정 또는 수동 포함)",
+    "조건 기반 판단": "회고 내용 + memory + 상태 조합",
+    "루프 흐름 변화 감지": true,
+    "다단계 루프 설계 지원": true,
+    "지속 학습 기반 루프 조정": true
+  },
+  "멀티_루프_분기": {
+    "루프 유형": [
+      "정리기",
+      "회고기",
+      "백업기",
+      "판단기",
+      "평가기"
+    ],
+    "자동 트리거 방식": "install_state.json + loop_memory_state.json 기반",
+    "사용자 분기": [
+      "지완",
+      "지니",
+      "자동 루프"
+    ],
+    "루프 선택 조건": "회고 결과 + 판단 로그 + 평가 점수"
+  },
+  "시각화_UI": {
+    "구현여부": true,
+    "방식": "Streamlit",
+    "대시보드 항목": [
+      "memory 상태",
+      "loop log",
+      "평가 결과",
+      "설치 상태"
+    ]
+  },
+  "루프_추천_자동화": {
+    "GPT가 다음 루프 추천": true,
+    "기반": "회고 + memory + 상태 변화",
+    "승인 방식": "지완 수락 → 루프 실행"
+  },
+  "추천_루프_기록": {
+    "마지막 추천 루프": "loop_evaluator.py",
+    "추천 이유": "회고 + memory 상태 기반 지속성 평가 필요",
+    "추천 기준": [
+      "install_state.json 상태 == 'TOTAL_COMPLETE'",
+      "회고 PDF 생성됨",
+      "loop_memory_state.json 존재",
+      "loop_result_log.json 또는 판단 로그 존재 여부"
+    ],
+    "추천 자동화 사용": true,
+    "GPT 기반 추천": true,
+    "추천 루프 실행기": "repeat_judge_runner.py",
+    "추천 실행 트리거": "loop_evaluator.py 완료 시 자동 전환 가능",
+    "추천 루프 로그 저장 위치": "loop_result_log.json",
+    "추천 근거 항목": [
+      "회고 PDF",
+      "memory 상태",
+      "loop_evaluation_log.json"
+    ],
+    "추천 루프 활성화 상태": "자동"
+  },
+  "최종_상태": {
+    "마지막 판단 루프 실행": "repeat_judge_runner.py",
+    "결과 로그": "loop_result_log.json",
+    "보고서": "GIWANOS_판단결과_보고서.pdf",
+    "판단 내용": {
+      "timestamp": "2025-07-19 10:26:30",
+      "judgement": "정상",
+      "reasoning": "회고 + memory 상태 기반 판단 루프 작동 정상",
+      "action": "지속 실행 유지 + 진화 평가 루프 준비"
+    },
+    "진행 시점": "2025-07-19 10:26:30",
+    "판단 상태": "정상",
+    "다음 예정 루프": "진화 평가기 (loop_evaluator.py)"
+  },
+  "완료_루프_흐름": {
+    "설치 완료": true,
+    "정리 루프 실행": true,
+    "회고 생성": true,
+    "ZIP 백업": true,
+    "사고 판단 루프 실행": true,
+    "판단 기록 저장": true,
+    "판단 결과 보고서 생성": true,
+    "설치 상태에 포함됨": true,
+    "진화 평가 루프 대기": true,
+    "추천 흐름 저장됨": true
+  },
+  "마감_선언": {
+    "상태": "완료",
+    "일시": "2025-07-19 10:30:50",
+    "설계자": "지완",
+    "버전": "vFinal-2025-07-19",
+    "비고": "설치, 사고, 회고, 판단, 평가, 전송, 추천 전부 포함. 더 이상 추가 없음."
+  }
+}

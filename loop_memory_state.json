@@ -1,0 +1,12 @@
+{
+  "install_complete": true,
+  "last_executed": "giwanos_launcher_dev.py",
+  "reflection_log_created": true,
+  "notion_uploaded": true,
+  "slack_posted": true,
+  "zip_backup_done": true,
+  "last_run": "2025-07-19 07:35:40",
+  "next_action": "슬랙 전송 및 노션 업로드 재시도 필요",
+  "manual_note": "회고 PDF는 생성됨. zip 백업 성공 여부 재확인 필요",
+  "sort_done": true
+}

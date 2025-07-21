@@ -1,0 +1,120 @@
+[
+  {
+    "timestamp": "2024-06-10T10:02:00",
+    "content": "GIWANOS 시스템 초기 설계 시작됨",
+    "type": "default",
+    "priority": "normal"
+  },
+  {
+    "timestamp": "2024-07-01T16:55:00",
+    "content": "GIWANOS v13까지 개발 완료, 핵심 기능 구현됨",
+    "type": "default",
+    "priority": "normal"
+  },
+  {
+    "timestamp": "2024-07-10T12:30:00",
+    "content": "Slack 제거 및 Notion 연동 구조 적용",
+    "type": "default",
+    "priority": "normal"
+  },
+  {
+    "timestamp": "2024-07-20T15:12:00",
+    "content": "GIWANOS v13은 최종 버전이며 이후 확장은 하지 않기로 선언됨",
+    "type": "lock",
+    "priority": "critical"
+  },
+  {
+    "timestamp": "2024-07-21T11:00:00",
+    "content": "지완은 시스템을 완성된 상태로 고정하며, 더 이상 버전 진행 흐름은 종료되었음",
+    "type": "lock",
+    "priority": "critical"
+  },
+  {
+    "summary": "GPT는 더 이상 진화 흐름, 확장 설계를 제안하지 않는다",
+    "grouped": [
+      {
+        "timestamp": "2024-07-22T08:30:00",
+        "content": "GPT는 더 이상 진화 흐름, 확장 설계를 제안하지 않는다",
+        "type": "override",
+        "priority": "critical"
+      },
+      {
+        "timestamp": "2025-07-21T07:59:47",
+        "content": "GPT는 더 이상 진화 흐름을 제안하지 않는다",
+        "type": "lock",
+        "priority": "critical"
+      }
+    ]
+  },
+  {
+    "summary": "테스트 기억 추가됨",
+    "grouped": [
+      {
+        "timestamp": "2025-07-21T07:59:13",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T07:59:34",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T08:23:21",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T08:30:11",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T08:44:41",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T08:44:48",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T08:48:03",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T08:48:09",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T09:15:58",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T09:30:28",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      },
+      {
+        "timestamp": "2025-07-21T09:31:52",
+        "content": "테스트 기억 추가됨",
+        "type": "note",
+        "priority": "low"
+      }
+    ]
+  }
+]

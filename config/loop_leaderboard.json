@@ -1,0 +1,14 @@
+{
+  "지완": {
+    "score": 92,
+    "loops_completed": 8,
+    "success_rate": 0.95,
+    "grade": "A"
+  },
+  "assistant1": {
+    "score": 75,
+    "loops_completed": 5,
+    "success_rate": 0.8,
+    "grade": "B"
+  }
+}

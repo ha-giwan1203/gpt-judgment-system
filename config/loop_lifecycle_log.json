@@ -1,0 +1,19 @@
+{
+  "judge_agent.py": {
+    "status": "executed",
+    "last_updated": "2025-07-19T13:00:00",
+    "history": [
+      "installed",
+      "executed",
+      "reflected"
+    ]
+  },
+  "zip_restore.py": {
+    "status": "archived",
+    "last_updated": "2025-06-01T15:30:00",
+    "history": [
+      "installed",
+      "executed"
+    ]
+  }
+}

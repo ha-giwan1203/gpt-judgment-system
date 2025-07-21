@@ -1,0 +1,22 @@
+{
+  "protected_files": [
+    "file_sort_for_지완OS_v2.py",
+    "zip_backup_generator.py",
+    "loop_memory_state.json",
+    ".env",
+    "giwanos_launcher.py",
+    "giwanos_launcher_dev.py",
+    "generate_reflection_pdf.py",
+    "send_slack_report.py",
+    "upload_notion_safe.py",
+    "loop_reflection_live_report.md",
+    "setup_giwanos.py"
+  ],
+  "preserved_folders": [
+    "loop_modules/",
+    "config/",
+    "__version__/",
+    "reflections/",
+    "loop_backups/"
+  ]
+}

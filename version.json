@@ -1,0 +1,28 @@
+{
+  "project": "GIWANOS",
+  "author": "Jiwan",
+  "version": "v14-final",
+  "released": "2025-07-19",
+  "history": [
+    {
+      "version": "v1",
+      "summary": "기본 루프 설계"
+    },
+    {
+      "version": "v7",
+      "summary": "기억 시스템 도입"
+    },
+    {
+      "version": "v11",
+      "summary": "자가 판단 루프 확립"
+    },
+    {
+      "version": "v13",
+      "summary": "연동 자동화 설계"
+    },
+    {
+      "version": "v14-final",
+      "summary": "실행기/판단기/기록기 통합 설치 패키지"
+    }
+  ]
+}
