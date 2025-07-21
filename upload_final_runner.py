@@ -1,30 +1,35 @@
+import sys
+try:
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+except AttributeError:
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace', line_buffering=True)
+
+
 import os
-import requests
+import sys
 
-# PDF 파일 경로 (가장 최근 파일 기준)
-from glob import glob
-latest_pdf = sorted(glob("./reports/summary_pdfs/loop_summary_report_*.pdf"))[-1]
+# 루트 경로 등록
+ROOT_DIR = "C:/giwanos"
+if ROOT_DIR not in sys.path:
+    sys.path.append(ROOT_DIR)
 
-# Slack Webhook URL (환경변수에서 불러오기)
-SLACK_WEBHOOK = os.getenv("SLACK_WEBHOOK_URL")
+from upload_notion_safe import upload_to_notion
 
-if SLACK_WEBHOOK:
-    with open(latest_pdf, "rb") as f:
-        filename = os.path.basename(latest_pdf)
-        files = {'file': (filename, f, 'application/pdf')}
-        payload = {
-            "filename": filename,
-            "title": f"📎 자동 회고 전송: {filename}",
-            "initial_comment": "새로운 회고 PDF가 생성되었습니다.",
-            "channels": "#general"
-        }
-        print(f"📤 Slack으로 전송 시도 중: {filename}")
-        response = requests.post(
-            url="https://slack.com/api/files.upload",
-            params={"token": os.getenv("SLACK_TOKEN")},
-            data=payload,
-            files=files
-        )
-        print("✅ Slack 전송 완료" if response.ok else f"❌ 실패: {response.text}")
+print("📤 전송기 시작")
+
+# 회고 PDF 경로
+reflection_pdf_path = os.path.join(ROOT_DIR, "reflections", "loop_reflection_log_clean.pdf")
+
+# 메모 파일 경로
+note_path = os.path.join(ROOT_DIR, "reflections", "loop_reflection_note.txt")
+
+# PDF 존재하면 텍스트 파일로 메모 작성 후 업로드
+if os.path.exists(reflection_pdf_path):
+    print(f"📄 회고 PDF 발견: {reflection_pdf_path}")
+    with open(note_path, "w", encoding="utf-8") as f:
+        f.write(f"PDF 회고 파일 위치: {reflection_pdf_path}")
+    upload_to_notion(note_path, page_title="GIWANOS 회고 요약 보고서")
 else:
-    print("⚠️ SLACK_WEBHOOK_URL 환경변수가 설정되지 않았습니다.")
+    print(f"❌ 회고 PDF 없음: {reflection_pdf_path}")
+
+print("✅ 전송기 완료")

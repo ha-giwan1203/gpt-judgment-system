@@ -1,8 +1,0 @@
-{
-  "survivors": [
-    "loop_summary_writer.py",
-    "loop_explainer.py",
-    "loop_mutator.py"
-  ],
-  "evaluated_at": "2025-07-14T04:08:14.600381"
-}
